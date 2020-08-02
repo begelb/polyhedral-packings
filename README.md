@@ -3,6 +3,7 @@ This is the code used to generate data on polyhedral packings that was created d
 
 How to use this code:
 Generate 3-connected planar graph data from plantri here: http://combos.org/plantri 
+
 Save the output as a textfile named "PLANTRI_FORMAT.txt"
 
 IN THE SAGE FILE: 
